@@ -1,26 +1,42 @@
 # 🎂 Cakely – Online Cake Ordering App
 
-**Cakely** is a delightful and responsive online cake ordering website where users can explore, customize, and order cakes with just a few clicks. From birthdays to breakups (hey, cake helps!), Cakely brings freshly baked joy straight to your screen.
+Cakely is a visually appealing online cake ordering web application that allows users to explore cakes through an intuitive interface.  
+It focuses on delivering a delightful user experience with a modern and responsive design.
 
-## ✨ Features
+## Live Demo
+https://cake-app-psi.vercel.app/
 
-- 🍰 Browse a delicious variety of cakes with mouthwatering visuals  
-- 🧁 Customize flavor, size, and personalized messages  
-- 🛒 Add to cart and simulate a checkout process  
-- 💌 Order confirmation with a smooth UI  
-- 📱 Fully responsive design (mobile-friendly)  
-- 💖 Attractive girly & sweet-themed UI  
+## Overview
+Cakely is a frontend-based project designed to simulate an online cake ordering platform. Users can browse different cake options.
+The project emphasizes UI/UX design, and responsive layout implementation.
 
-## 🛠️ Tech Stack
+## Features
+- Browse a variety of cakes with visually appealing design  
+- Responsive design for mobile and desktop  
+- Aesthetic and themed UI with smooth interactions  
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Design:** Custom styling with animations and vibrant UI  
-- *(Backend & Firebase integration coming soon)*
+## Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript
+  
+## Limitations
+- No real payment integration  
+- No backend or database connectivity  
+- Orders are not processed  
 
-## 💡 Inspiration
+## Future Improvements
+- Integrate backend (Node.js / Firebase)  
+- Add user authentication  
+- Implement real order processing and payment gateway  
+- Store order history  
+- Enhance UI animations and transitions  
 
-Cakely was inspired by the idea of making sweet moments just a click away. It’s a front-end project.
+## Deployment
+The project is deployed using Vercel.
 
-###  If you enjoyed the project, feel free to leave a star on my GitHub! Your feedback and support are always appreciated. ⭐
+## Contribution
+Contributions, suggestions, and improvements are welcome. Feel free to fork the repository and submit a pull request.
 
-
+## License
+This project is created for educational and demonstration purposes.
